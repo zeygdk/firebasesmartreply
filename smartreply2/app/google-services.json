@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983880042025",
+    "firebase_url": "https://firabase-smart-reply.firebaseio.com",
+    "project_id": "firabase-smart-reply",
+    "storage_bucket": "firabase-smart-reply.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983880042025:android:da372fdefcad7a470abe38",
+        "android_client_info": {
+          "package_name": "com.example.smartreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983880042025-f75eb3b8bf7v8i138bvebmhl4j388veq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartreply",
+            "certificate_hash": "da3c4467743a634a1fe1573918dd77ef2aa04e03"
+          }
+        },
+        {
+          "client_id": "983880042025-1qmc1luvuafokrq03gm7plr8eqnfnods.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfwi8PmngJV4MmIJbgLkbT2rGk3-Yc6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983880042025-1qmc1luvuafokrq03gm7plr8eqnfnods.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
